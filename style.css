@@ -1,13 +1,30 @@
-table{
-    width: 100%;
+
+
+.tabela{
     border-collapse: collapse;
+    width:100% ;
 }
-td,th{
-    border: 5px solid black;
-     padding: 5px;
+th{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+td{
+    border: 5px solid rgb(14, 0, 204);
+    padding: 5px;
+    color: rgb(218,165,32);
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: rgb(0,255,0);
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:rgb(70,130,180) ;
 }
 body{
-    background-image: url(https://www.revistafullpower.com.br/wp-content/uploads/2017/12/nissa-350z-tokyo-drift-1-1068x601.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+   background-image: url(https://img.freepik.com/fotos-gratis/abundancia-de-escolhas-alimentares-saudaveis-no-corredor-do-supermercado-geradas-pela-ia_188544-42447.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
